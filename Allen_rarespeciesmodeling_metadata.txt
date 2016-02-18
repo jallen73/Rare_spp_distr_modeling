@@ -1,0 +1,1 @@
+This folder contains R scripts written by Jessica Allen (jessilynnallen@gmail.com) used in the paper "Climate change impacts on endemic, high-elevation lichens in a biodiversity hotspot".
